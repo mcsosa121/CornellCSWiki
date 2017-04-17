@@ -23,3 +23,10 @@ Contributors, listed by month of first contribution:
 - Justin Kuang
 - Eric Feng
 - Robert Yang
+- Mike Sosa
+- Danny Yang
+- Patrick M. Niedzielski
+
+## April 2017
+
+- Wilson Chen
